@@ -45,6 +45,8 @@
  *  X Simplify RenderAnimationHousekeeping so it does not require start and end routines or do not use them externally (make them apart of typical rendering calls).
  * DMR - 2014-07-07
  *  W Get rid of magic numbers like PWMdimmersteps being manually entered as 128
+ * DMR - 2016-11-02
+ *  Modify master and push change test.
  */
 
 //Dev Reference
