@@ -45,3 +45,33 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.txt
+dist/XC8_PIC16F690/production/PIC16F690_-_LED_Controller_Code.production.sym
+*.sdb
+dist/XC8_PIC16F690/production/PIC16F690_-_LED_Controller_Code.production.rlf
+*.obj
+*.map
+dist/XC8_PIC16F690/production/PIC16F690_-_LED_Controller_Code.production.lst
+Makefile
+*.properties
+nbproject/Makefile-HT_PIC16F54.mk
+*.mk
+nbproject/Package-HT_PIC16F54.bash
+*.bash
+nbproject/configurations.xml
+*.xml
+*.p1
+build/XC8_PIC16F690/production/animation.p1.d
+*.pre
+*.d
+dist/XC8_PIC16F690/production/PIC16F690_-_LEDC_Code.production.cmf
+*.elf
+dist/XC8_PIC16F690/production/PIC16F690_-_LEDC_Code.production.hex
+*.hxl
+*.lst
+dist/XC8_PIC16F690/production/PIC16F690_-_LEDC_Code.production.mum
+*.sym
+dist/XC8_PIC16F690/production/PIC16F690_-_LED_Controller_Code.production.cmf
+*.hex
+dist/XC8_PIC16F690/production/PIC16F690_-_LEDC_Code.production.rlf
+funclist

@@ -47,6 +47,7 @@
  *  W Get rid of magic numbers like PWMdimmersteps being manually entered as 128
  * DMR - 2016-11-02
  *  Modify master and push change test.
+ *  Modify from local copy to push change to remote
  */
 
 //Dev Reference
